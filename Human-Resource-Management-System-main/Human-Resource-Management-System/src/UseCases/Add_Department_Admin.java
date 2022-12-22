@@ -18,6 +18,8 @@ public class Add_Department_Admin {
 		System.out.println("Enter Name of Department  ");
 		String name = sc.next();
 		
+		System.out.print("****");
+		
 		System.out.println("Enter Department Location..");
 		String location = sc.next();
 		
