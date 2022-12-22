@@ -29,7 +29,7 @@ public class Application_HRM {
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in) ;
-		System.out.println("******* Welcone to Human Resource Management System  ********** ");
+		System.out.println("******* Welcone to Human Resource Management System ** ********** ");
 		boolean go = true ;
 		while(go) {
 			
