@@ -25,7 +25,7 @@ public class Department {
 	}
 	@Override
 	public String toString() {
-		return "Department [deptId=" + deptId + ", deptName=" + deptName + ", deptLoc="
+		return "Department [deptId=" + deptId + ", deptName=" + deptName + ",deptLoc="
 				+ deptLoc + "]";
 	}
 	public Department(int deptId, String deptName, String deptLoc) {
