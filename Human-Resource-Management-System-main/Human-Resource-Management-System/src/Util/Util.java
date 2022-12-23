@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 
-/*--------------------------------------------     Connection making with SQL    -----------------------------------------------*/
+/*--------------------------------------------     Connection making with SQL   --------------------------------------------*/
 
 public class Util {
 
