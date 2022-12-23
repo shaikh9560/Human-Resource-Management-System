@@ -7,6 +7,9 @@ import DAO.EmployeeDaoImp;
 import Exceptions.Employee_Exception;
 import JavaBean.Leaves;
 
+
+/*--------------------------------------------     Get List of employee who are on leave   -----------------------------------------------*/
+
 public class GetListOfLeaave {
 	
 	public static void main(String[] args) {
