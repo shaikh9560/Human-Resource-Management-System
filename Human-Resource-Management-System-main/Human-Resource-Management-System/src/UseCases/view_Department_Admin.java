@@ -7,6 +7,9 @@ import DAO.DepartmentDaoImp;
 import Exceptions.Department_Exception;
 import JavaBean.Department;
 
+
+/*--------------------------------------------     View All Department   -----------------------------------------------*/
+
 public class view_Department_Admin {
 
 	public static void main(String[] args) {
