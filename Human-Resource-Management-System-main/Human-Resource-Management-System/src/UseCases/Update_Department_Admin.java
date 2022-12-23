@@ -8,6 +8,9 @@ import DAO.DepartmentDao;
 import DAO.DepartmentDaoImp;
 import Util.Util;
 
+
+/*--------------------------------------------     Updata Department By Admin    -----------------------------------------------*/
+
 public class Update_Department_Admin {
 
 	public static void main(String[] args) {
