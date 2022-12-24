@@ -9,7 +9,7 @@ public interface DepartmentDao {
 	
 	public abstract String addDepartment(Department department) throws Department_Exception;
 	
-	public abstract String updateDepartmentName(String original , String after );
+	public abstract String updateDepartmentName(String original ,String after );
 	
 	public abstract String updateDepartmentLocation(String deptName , String location) ;
 	
